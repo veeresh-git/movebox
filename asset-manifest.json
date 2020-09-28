@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movebox/static/css/main.2d54fd69.chunk.css",
+    "main.js": "/movebox/static/js/main.74206ec6.chunk.js",
+    "main.js.map": "/movebox/static/js/main.74206ec6.chunk.js.map",
+    "runtime-main.js": "/movebox/static/js/runtime-main.ee76bfdf.js",
+    "runtime-main.js.map": "/movebox/static/js/runtime-main.ee76bfdf.js.map",
+    "static/js/2.f3f9d425.chunk.js": "/movebox/static/js/2.f3f9d425.chunk.js",
+    "static/js/2.f3f9d425.chunk.js.map": "/movebox/static/js/2.f3f9d425.chunk.js.map",
+    "index.html": "/movebox/index.html",
+    "precache-manifest.e6e5f7444b7ba757d71cc1bba9156040.js": "/movebox/precache-manifest.e6e5f7444b7ba757d71cc1bba9156040.js",
+    "service-worker.js": "/movebox/service-worker.js",
+    "static/css/main.2d54fd69.chunk.css.map": "/movebox/static/css/main.2d54fd69.chunk.css.map",
+    "static/js/2.f3f9d425.chunk.js.LICENSE.txt": "/movebox/static/js/2.f3f9d425.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee76bfdf.js",
+    "static/js/2.f3f9d425.chunk.js",
+    "static/css/main.2d54fd69.chunk.css",
+    "static/js/main.74206ec6.chunk.js"
+  ]
+}
