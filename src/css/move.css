@@ -1,0 +1,130 @@
+.movecontainer {
+  display: block;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.198);
+  padding: 10px;
+  max-width: 100%;
+  margin: 5px;
+}
+p {
+  font-weight: 600;
+}
+.top {
+  display: flex;
+  justify-content: space-evenly;
+}
+.label {
+  display: block;
+  padding: 10px;
+}
+.bottom {
+  display: flex;
+  justify-content: space-evenly;
+}
+.label1 {
+  display: block;
+  padding: 10px;
+}
+.label1 button {
+  margin: 5px;
+  padding: 5px;
+  border: none;
+  background-color: rgba(255, 68, 0, 0.726);
+  color: white;
+  border-radius: 3px;
+}
+.label1 .button1 {
+  background-color: white;
+  border: 1px solid rgba(255, 68, 0, 0.726);
+  color: rgba(255, 68, 0, 0.726);
+}
+.check {
+  color: rgba(255, 68, 0, 0.726);
+}
+.arrow {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 2px 4px 3px rgba(128, 128, 128, 0.602);
+  padding: 5px;
+  color: rgba(255, 68, 0, 0.726);
+}
+.inventaryhead {
+  display: flex;
+  padding: 20px;
+}
+.inventaryhead button {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+.inventarybody button {
+  width: 100%;
+  text-align: left;
+  padding-left: 10px;
+  font-weight: 900;
+  color: rgba(255, 68, 0, 0.726);
+  border: none;
+  border-radius: 7px;
+  height: 40px;
+  background-color: rgba(169, 169, 169, 0.452);
+  margin: 5px;
+}
+.inventarybody button span {
+  background-color: rgba(255, 68, 0, 0.726);
+  border-radius: 7px;
+  color: white;
+  font-size: 10px;
+  font-weight: 500;
+  padding: 2px;
+}
+.househead {
+  display: flex;
+  padding: 20px;
+}
+.househead button {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+.oldhousehead {
+  padding: 5px;
+  color: rgba(255, 68, 0, 0.726);
+}
+
+/*  */
+.inventarycontent {
+  display: none;
+  justify-content: space-evenly;
+  height: auto;
+}
+.furnitures,
+.electricals,
+.fragile {
+  /* border: 1px solid black; */
+  width: 25%;
+  text-align: center;
+  height: auto;
+  padding: 2px;
+}
+.content {
+  /* border: 1px solid black; */
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.key,
+.value {
+  display: inline-block;
+}
+.key {
+  float: left;
+}
+.value {
+  float: right;
+}
+
+/* media queries */
+
+@media screen and (max-width: 750px) {
+}

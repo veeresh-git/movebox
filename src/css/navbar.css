@@ -1,0 +1,16 @@
+.navbar {
+  display: inline-block;
+  height: 100%;
+  padding: 20px;
+  float: left;
+}
+.navbar ul li {
+  list-style: none;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+.navbar ul li a {
+  text-decoration: none;
+  color: black;
+}
